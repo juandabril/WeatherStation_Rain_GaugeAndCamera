@@ -1,0 +1,2 @@
+TIEMPO,LA,T,H,VV,DV,RS,RUV,PA
+TIMESTAMP,mm,C,%,Km/h,Grados,W/m2,Index,hPa

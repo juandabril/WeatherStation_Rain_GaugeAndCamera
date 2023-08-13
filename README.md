@@ -1,0 +1,3 @@
+# Python Weather Station with Rain Gauge"
+
+Description: This project involves creating a weather station application in Python that incorporates a rain gauge. The application will gather meteorological data and provide insights into weather conditions, including rainfall measurements. It's designed to offer a practical example of how to integrate sensor data and develop a comprehensive weather monitoring system using Python.
